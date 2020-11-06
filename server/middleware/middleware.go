@@ -16,7 +16,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const connectionString = "mongodb+srv://kevin-lau:Woshigudboy1%40@kevinplayground.hoscu.mongodb.net/test"
+const connectionString = "mongodb+srv://<id>:<password>@server.example.com/"
 
 // Database Name
 const dbName = "test"
